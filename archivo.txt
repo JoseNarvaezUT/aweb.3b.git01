@@ -3,3 +3,6 @@ Primer práctica Git
 Aplicaciones Web
 Grupo: C
 Grado: 3ro
+Carrera: Tecnologias de la Información
+Área: Desarrollo de software multiplataforma
+Turno: Matutino
