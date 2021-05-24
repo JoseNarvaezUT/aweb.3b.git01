@@ -7,4 +7,4 @@ Carrera: Tecnologías de la Información
 Turno: Matutino
 Docente: José Christian Narváez Figueroa
 Objetivo materia: Desarrollar Aplicaciones que puedan ser desplegas en internet
-Compotencias: Algun textos mas para rellenar
+Competencias: Algun textos mas para rellenar y que se visualice el cambio
